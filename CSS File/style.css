@@ -1,0 +1,10 @@
+* {
+    height: auto;
+    width: none;
+}
+
+.header{
+    display: inline;
+    /* display: block; */
+    text-wrap: stable;
+}
